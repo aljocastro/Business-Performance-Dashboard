@@ -22,6 +22,7 @@ Dashboard Design
 - 🔄 **Cross-Dashboard Navigation** – Easily switch between Sales and Customer dashboards
 - 📊 **Interactive Charts** – Drilldowns, tooltips, and click-to-filter capabilities
 
+<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>
 **Built in**: Tableau Desktop  
 **Published on**: [Tableau Public](#) *(Add your link here)*   
 
