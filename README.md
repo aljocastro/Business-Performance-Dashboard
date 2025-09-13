@@ -21,8 +21,7 @@ While the data is static, the dashboards are designed for **dynamic exploration*
 
 </div>
 
-[<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)
-
+<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>
 
 The project delivers two fully interactive Tableau dashboards:
 
@@ -36,10 +35,10 @@ Provides a full view of sales performance across time, product lines, and geogra
 
 #### Key Highlights:
 
-- 🧮 **KPI Overview** – Total Sales, Profit, and Quantity (Current Year vs. Previous Year)  
-- 📅 **Monthly Trends** – Month-by-month breakdown of KPIs with YoY comparison  
-- 🧩 **Product Subcategory Comparison** – Analyze Sales and Profit across subcategories  
-- 📆 **Weekly Performance** – Weekly view with average benchmarks and outlier highlights  
+- **KPI Overview** – Total Sales, Profit, and Quantity (Current Year vs. Previous Year)  
+- **Trends** – MoM breakdown of KPIs with YoY comparison  
+- **Product Subcategory Comparison** – Analyze Sales and Profit across subcategories  
+- **Weekly Performance** – Weekly view with average benchmarks and outlier highlights  
 
 </td>
 <td valign="top" width="50%">
@@ -50,10 +49,10 @@ Focused on customer behavior, engagement, and profitability.
 
 #### Key Highlights:
 
-- 👤 **Customer KPIs** – Total Customers, Sales per Customer, and Order Count (YoY comparison)  
-- 📊 **Customer Trends** – Monthly trends of customer activity and value  
-- 📦 **Order Distribution** – Visual distribution of customers by number of orders  
-- 🏆 **Top 10 Customers by Profit** – Ranked table with Sales, Profit, Orders, and Last Order Date  
+- **Customer KPIs** – Total Customers, Sales per Customer, and Order Count (YoY comparison)  
+- **Customer Trends** – Monthly trends of customer activity and value  
+- **Order Distribution** – Visual distribution of customers by number of orders  
+- **Top 10 Customers by Profit** – Ranked table with Sales, Profit, Orders, and Last Order Date  
 
 </td>
 </tr>
