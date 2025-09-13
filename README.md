@@ -15,16 +15,14 @@ While the data is static, the dashboards are designed for **dynamic exploration*
   
 ## 🚀 Results
 
-Dashboard Design
+<div align="center">
+ 
+[Published on Tableau Public](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)  
 
-- 📅 **Dynamic Year Selection** – Toggle between any year and compare it with the previous year
-- 🎛 **Interactive Filters** – By Product Category, Subcategory, Region, State, and City
-- 🔄 **Cross-Dashboard Navigation** – Easily switch between Sales and Customer dashboards
-- 📊 **Interactive Charts** – Drilldowns, tooltips, and click-to-filter capabilities
+</div>
 
-<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>
-**Built in**: Tableau Desktop  
-**Published on**: [Tableau Public](#) *(Add your link here)*   
+[<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)
+
 
 The project delivers two fully interactive Tableau dashboards:
 
@@ -60,6 +58,13 @@ Focused on customer behavior, engagement, and profitability.
 </td>
 </tr>
 </table>
+
+Dashboard Design
+
+- 📅 **Dynamic Year Selection** – Toggle between any year and compare it with the previous year
+- 🎛 **Interactive Filters** – By Product Category, Subcategory, Region, State, and City
+- 🔄 **Cross-Dashboard Navigation** – Easily switch between Sales and Customer dashboards
+- 📊 **Interactive Charts** – Drilldowns, tooltips, and click-to-filter capabilities
 
 ---
 
