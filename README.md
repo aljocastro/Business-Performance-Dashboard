@@ -1,4 +1,4 @@
-# Tableau Sales & Customer Dashboard
+# Tableau Sales & Customer Dashboard [.](https://aljocastro.github.io/Tableau-Customer-Dashboard/) 
 
 ## 📊 Project Overview
 
@@ -33,12 +33,12 @@ The project delivers two fully interactive Tableau dashboards:
 
 Provides a full view of sales performance across time, product lines, and geography.
 
-#### Key Highlights:
+#### Key Highlights:  
 
-- **KPI Overview** – Total Sales, Profit, and Quantity (Current Year vs. Previous Year)  
-- **Trends** – MoM breakdown of KPIs with YoY comparison  
-- **Product Subcategory Comparison** – Analyze Sales and Profit across subcategories  
-- **Weekly Performance** – Weekly view with average benchmarks and outlier highlights  
+  - **KPI Overview** – Total Sales, Profit, and Quantity (Current Year vs. Previous Year)    
+  - **Trends** – MoM breakdown of KPIs with YoY comparison  
+  - **Product Subcategory Comparison** – Analyze Sales and Profit across subcategories  
+  - **Weekly Performance** – Weekly view with average benchmarks and outlier highlights  
 
 </td>
 <td valign="top" width="50%">
