@@ -1,4 +1,4 @@
-# Tableau Sales & Customer Dashboard [.](https://aljocastro.github.io/Tableau-Customer-Dashboard/) 
+# Tableau Sales & Customer Dashboard [.](https://aljocastro.github.io/Tableau-Customer-Dashboard/)  
 
 ## 📊 Project Overview
 
