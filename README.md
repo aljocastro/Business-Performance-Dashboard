@@ -1,4 +1,4 @@
-# Tableau Sales & Customer Dashboard [.](https://aljocastro.github.io/Tableau-Customer-Dashboard/)  
+# Tableau Sales & Customer Dashboard
 
 ## 📊 Project Overview
 
@@ -17,7 +17,7 @@ While the data is static, the dashboards are designed for **dynamic exploration*
 
 <div align="center">
  
-[Published on Tableau Public](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)   
+[Published on Tableau Public]   
 
   
 </div>
