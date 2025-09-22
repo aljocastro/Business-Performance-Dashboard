@@ -17,11 +17,11 @@ While the data is static, the dashboards are designed for **dynamic exploration*
 
 <div align="center">
  
-[Published on Tableau Public](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)  
+[Published on Tableau Public](https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)
 
 </div>  
   
-<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>(https://public.tableau.com/app/profile/alejandro.castro8486/viz/CustomerDashboard_17577388851910/SalesDashboard)
+<p align="center"><img src="Screenshot 2025.png" alt="Dashboard"></p>
 
 The project delivers two fully interactive Tableau dashboards:
 
